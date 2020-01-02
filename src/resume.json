@@ -38,7 +38,18 @@
       "website": "http://introcept.co/",
       "startDate": "2019-10-15",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Part Time at Introcept as FrontEnd developer. My first professional experience in the industry. Using React JS, Styled Components, SCSS as a major stack. Using Git, Ora, Figma as a workflow tools making it easier to communicate and understand the tasks",
+      "highlights": []
+    },
+    {
+      "company": "Personal Project",
+      "position": "software engineer (backend)",
+      "website": "",
+      "startDate": "2017-10-10",
+      "endDate": "2018-5-20",
+      "summary": [
+        "Developed a restaurant point of sale (​ResPOS​) web application. Used Node.Js with Express.js framework for the backend, React.js for frontend and MySQL database. Wrote Unit tests using Mocha and native Node.js Assert, also used Proxyquire and Nock to mock requires and network calls respectively. Used docker to containerize the backend app making it possible to be hosted on Google Could Run - backend. Used Git for version control and wercker controlling the complete CI/CD pipeline"
+      ],
       "highlights": []
     }
   ],
@@ -63,7 +74,7 @@
   "skills": [
     {
       "name": "Object Oriented Programming",
-      "level": 75,
+      "level": "",
       "keywords": ["Software Developer"]
     },
     {
